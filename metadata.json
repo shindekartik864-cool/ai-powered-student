@@ -1,0 +1,6 @@
+{
+  "name": "Gramsathi AI - Maharashtra Smart Farming Assistant",
+  "description": "AI-powered farming assistant for Maharashtra farmers with Marathi/Hindi/English support, profit calculator, crop planner, irrigation advisor, and live APMC mandi insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
